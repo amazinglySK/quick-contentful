@@ -10,6 +10,15 @@
 4. Add API key if one's not there already
 5. Keep the API key and space id copied on your clipboard
 
+### Setting up the post content model
+
+1. From the dashboard, Content Model > Add content type
+2. Follow the instructions. Give the model a name like "post"
+3. Add required fields like title, description, content, etc. (You can always edit this later)
+4. Save the content type
+5. Navigate to the "Content" tab. 
+
+You should now be setup to write some sample test posts.
 
 ### Getting started
 
